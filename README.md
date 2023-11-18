@@ -1,0 +1,2 @@
+# OdooFavs
+Odoo Favorites module
