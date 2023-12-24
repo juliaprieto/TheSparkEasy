@@ -1,2 +1,2 @@
-# OdooFavs
-Odoo Favorites module
+# TheSparkEasy
+Odoo opensource accessible odoo modules
